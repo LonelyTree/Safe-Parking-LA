@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Safe-Parking-LA/precache-manifest.c4f1a96d366e02bfa6ac3ff4ff4f733c.js"
+  "/Safe-Parking-LA/precache-manifest.d47b9ab8a636695bdb7adf0fd614f913.js"
 );
 
 self.addEventListener('message', (event) => {
